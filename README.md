@@ -18,11 +18,11 @@ Hunter is a personal voice assistant that can perform various tasks such as tell
 # Requirements
 
 - Python 3.x
-Required Python packages:
+- Required Python packages:
 - pyttsx3
-speechRecognition
-wikipedia
-pyautogui
-psutil
-pyjokes
+- speechRecognition
+- wikipedia
+- pyautogui
+- psutil
+- pyjokes
  
